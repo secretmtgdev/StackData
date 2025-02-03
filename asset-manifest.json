@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StackData/static/css/main.2210018d.css",
+    "main.js": "/StackData/static/js/main.8520cab5.js",
+    "index.html": "/StackData/index.html",
+    "main.2210018d.css.map": "/StackData/static/css/main.2210018d.css.map",
+    "main.8520cab5.js.map": "/StackData/static/js/main.8520cab5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2210018d.css",
+    "static/js/main.8520cab5.js"
+  ]
+}
