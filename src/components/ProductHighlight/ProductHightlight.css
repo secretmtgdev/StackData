@@ -1,0 +1,7 @@
+.product-highlight {
+    padding: 25px 40px 0px 40px; /* There's default margin on h* tags */
+}
+
+.product-subtitle {
+    color: lightgrey;
+}

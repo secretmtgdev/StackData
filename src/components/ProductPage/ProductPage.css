@@ -1,0 +1,15 @@
+@import '../../App.css';
+
+#product-page-container {
+    background-color: var(--custom-grey-color);
+    display: flex;
+}
+
+#product-page-container > * {
+    margin: 10px;
+}
+
+.product-component {
+    background-color: var(--custom-white-color);
+}
+  

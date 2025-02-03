@@ -1,0 +1,9 @@
+.left-panel {
+    width: var(--left-panel-width);
+    border: 1px solid black;
+}
+
+.product-image {
+    width: 150px;
+    height: 150px;
+}

@@ -1,0 +1,7 @@
+.tags {
+    padding: 10px 25px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 10px;
+}
